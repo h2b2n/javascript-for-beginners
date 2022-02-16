@@ -9,4 +9,5 @@ function getClock() {
 }
 
 getClock();
-setInterval(getClock, 1000);
+setInterval(getClock, 1000); //every 1sec.
+setTimeout(getClock ,1000) ; //after 1sc , just once
