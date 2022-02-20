@@ -26,3 +26,11 @@ if (savedUsername === null) {
 } else {
   paintGreetings(savedUsername);
 }
+
+//const link = document.querySelector("a");
+//unction linkClick(info){
+//    info.preventDefault();
+//    console.dir(info);
+//    //alert("clicked!");
+//}
+//link.addEventListener("click", linkClick);
